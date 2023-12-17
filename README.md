@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kcxrulzz&label=Profile%20views&color=0e75b6&style=flat" alt="kcxrulzz" /> </p>
 
+---
+
 - 🔭 I’m currently working on **MERN Projects**
 
 - 🌱 I’m currently learning **React**
@@ -12,6 +14,7 @@
 - 📫 How to reach me **kaveefernando67@gmail.com**
 
 - ⚡ Fun fact **Call me as Spirit**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
