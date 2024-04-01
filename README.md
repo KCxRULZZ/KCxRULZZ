@@ -7,8 +7,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kcxrulzz&label=Profile%20views&color=0e75b6&style=flat" alt="kcxrulzz" /> </p>
-
 
 - 🔭 I’m currently working on **MERN Projects**
 
@@ -18,11 +16,12 @@
 
 - ⚡**Call me as Spirit**
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kcxrulzz&label=Profile%20views&color=0e75b6&style=flat" alt="kcxrulzz" /> </p>
   <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -32,10 +31,10 @@
 </div>
 
 
-<p align="center" ><img src="https://github.com/KCxRULZZ/KCxRULZZ/assets/130305819/e79c0bfd-bfbc-437d-ac65-b11c4a820f2b" width="200px" height="200px">
+<p align="center" ><img src="https://github.com/KCxRULZZ/KCxRULZZ/assets/130305819/e79c0bfd-bfbc-437d-ac65-b11c4a820f2b" width="400px" height="400px">
   
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools:</h3>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
