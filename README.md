@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **kaveefernando67@gmail.com**
 
-- ⚡ Fun fact **Call me as Spirit**
+- ⚡**Call me as Spirit**
 
 
 <h3 align="left">Connect with me:</h3>
