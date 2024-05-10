@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **MERN Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 📫 How to reach me **kaveefernando67@gmail.com**
 
