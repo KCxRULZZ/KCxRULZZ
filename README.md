@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on **MERN Projects**
+- 🔭 I’m currently working on **Laravel Projects**
 
-- 🌱 I’m currently learning **NEXT.JS**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **kaveefernando67@gmail.com**
 
