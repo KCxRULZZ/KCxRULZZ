@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on **Laravel Projects**
+- 🔭 I’m currently working on **ML Projects**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **kaveefernando67@gmail.com**
 
